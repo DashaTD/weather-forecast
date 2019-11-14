@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="powered_by_dark_sky">Powered by Dark Sky</string>
+    <string name="title_currently">Current Weather</string>
+    <string name="temperature">Temperature: %d\u2103</string>
+    <string name="apparent_temperature">The apparent (feels like) temperature: %d\u2103</string>
+    <string name="cloud_cover">The percentage of sky occluded by clouds: %.2f</string>
+    <string name="wind_speed">Wind speed: %.2f</string>
+    <string name="coarse_location_rationale">Your location will allow to show local weather</string>
+</resources>
